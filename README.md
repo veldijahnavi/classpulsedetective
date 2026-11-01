@@ -126,3 +126,14 @@ npm run dev
 
 Server binds to `http://localhost:3000`.
 Downloadable master project ZIP: `public/assets/aistudio/ClassPulse-Detective-Fixed-Final.zip`.
+## 📦 Download Complete Source Code
+
+The complete ClassPulse Detective project source code is available below.
+
+**[Download ClassPulse Detective Source Code (ZIP)](./ClassPulse-Detective-Source-Code.zip)**
+
+Download and extract the ZIP to access the frontend, backend, database, adaptive learning engine, and project configuration files.
+
+## 🚀 Project Repository
+
+[View ClassPulse Detective on GitHub](https://github.com/veldijahnavi/classpulsedetective)
