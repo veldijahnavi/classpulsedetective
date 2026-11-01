@@ -130,7 +130,7 @@ Downloadable master project ZIP: `public/assets/aistudio/ClassPulse-Detective-Fi
 
 The complete ClassPulse Detective project source code is available below.
 
-**[Download ClassPulse Detective Source Code (ZIP)](./ClassPulse-Detective-Source-Code.zip)**
+[📦 Download ClassPulse Detective Source Code (ZIP)](https://github.com/veldijahnavi/classpulsedetective/raw/refs/heads/main/untitled%20%281%29.zip)
 
 Download and extract the ZIP to access the frontend, backend, database, adaptive learning engine, and project configuration files.
 
